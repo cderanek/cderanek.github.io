@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Carissa DeRanek"
   avatar           : "profile.JPG"
-  bio              : "I am a PhD student in the Forests and Global Change lab at UCLA. I use remote sensing to study changes in plant traits over time. I am interested in the impact of disturbance on ecosystem functioning at three California NEON sites. \n Prior to joining the Forests and Global Change lab at UCLA, I worked as a high school math and computer science teacher at The Webb Schools. You can read more about my work in education in the Teaching tab."
+  bio              : |+ 
+    I'm a PhD student in the Forests and Global Change lab at UCLA. I use remote sensing to study changes in plant traits over time. 
+    I'm interested in the impact of disturbance on ecosystem functioning at three California NEON sites. \n Prior to joining the Forests and Global Change lab at UCLA, I worked as a high school math and computer science teacher at The Webb Schools. You can read more about my work in education in the Teaching tab.
   location         : "University of California, Los Angeles"
   employer         :
   pubmed           : 
