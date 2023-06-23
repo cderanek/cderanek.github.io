@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Carissa DeRanek"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "I am a PhD student in the Forests and Global Change lab at UCLA. I use remote sensing to study changes in plant traits over time. I am interested in the impact of disturbance on ecosystem functioning at three California NEON sites. \n Prior to joining the Forests and Global Change lab at UCLA, I worked as a high school math and computer science teacher at The Webb Schools. You can read more about my work in education in the Teaching tab."
   location         : "University of California, Los Angeles"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DWk8ia8AAAAJ"
-  email            : "caderanek (at) ucla (dot) edu"
+  email            : "caderanek@ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -178,14 +178,14 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  CV:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
