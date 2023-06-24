@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a PhD student in the [Forests and Global Change lab](https://elsaordway.weebly.com) at UCLA. I use remote sensing to study changes in plant traits over time. I'm interested in the impact of disturbance on ecosystem functioning at three National Ecological Observatory Network sites ([SJER](https://www.neonscience.org/field-sites/sjer), [SOAP](https://www.neonscience.org/field-sites/soap), and [TEAK](https://www.neonscience.org/field-sites/teak)).
 
-![Our team sampling at SJER|50](/images/sjer_sampling.JPG)
-![TEAK|50](/images/teak1.JPG)
-![TEAK|50](/images/teak2.JPG)
+<img src="/images/sjer_sampling.JPG" width="300">
+<img src="/images/teak1.JPG" width="300">
+<img src="/images/teak1.JPG" width="300">
 
 Prior to joining the Forests and Global Change lab at UCLA, I worked as a high school math and computer science teacher at [The Webb Schools](https://www.webb.org). You can read more about my work in education in the [Teaching tab](https://cderanek.github.io/teaching/).
 
