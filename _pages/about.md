@@ -12,7 +12,7 @@ I'm a PhD student in the [Forests and Global Change lab](https://elsaordway.weeb
 
 <p align="center">
 <img src="/images/sjer_sampling.JPG" width="250">
-<img src="/images/teak1.JPG" width="160"> 
+<img src="/images/teak1.JPG" width="150"> 
 <img src="/images/teak2.JPG" width="250">
 </p>
 
