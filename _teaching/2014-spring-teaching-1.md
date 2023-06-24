@@ -8,13 +8,10 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+IDEA: break down teaching into separate pages for teaching roles (at HMC, Webb, volunteering, CIRTL)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+https://webbcanyonchronicle.com/7935/showcase/vws-students-demonstrate-passion-for-computer-science/
+https://issuu.com/thewebbschools/docs/webb_summer_2023_issuu -- magazine showcasing women in CS award
+https://webbcanyonchronicle.com/7988/uncategorized/research-with-drones-the-role-of-technology-in-biology-and-conservation/
+https://www.webb.org/news/gaulbots-to-compete-in-regional-championships/
+https://issuu.com/thewebbschools/docs/webb_magazine_spring_2022 -- Paleontology trip and quote about robotics
