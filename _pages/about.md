@@ -8,25 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the [Forests and Global Change lab](https://elsaordway.weebly.com) at UCLA. I use remote sensing to study changes in plant traits over time. I'm interested in the impact of disturbance on ecosystem functioning at three National Ecological Observatory Network sites ([SJER](https://www.neonscience.org/field-sites/sjer), [SOAP](https://www.neonscience.org/field-sites/soap), and [TEAK](https://www.neonscience.org/field-sites/teak)).
+I'm a PhD student in the [Forests and Global Change lab](https://elsaordway.weebly.com) at UCLA. I use remote sensing to study changes in plant traits over time. I'm interested in the impact of disturbance on ecosystem functioning at three National Ecological Observatory Network sites ([SJER](https://www.neonscience.org/field-sites/sjer), [SOAP](https://www.neonscience.org/field-sites/soap), and [TEAK](https://www.neonscience.org/field-sites/teak)). I use hyperspectral imagery to study the distribution of plant traits at landscape scales. I'm interested in understanding the relationship between functional diversity and ecosystem stability.
 
 <p align="center">
-<img src="/images/sjer_sampling.JPG" height="200"> <img src="/images/teak1.JPG" height="200"> <img src="/images/teak2.JPG" height="200">
+<img src="/images/sjer_sampling.JPG" height="100"> <img src="/images/teak1.JPG" height="100"> <img src="/images/teak2.JPG" height="100">
 </p>
 
 Prior to joining the Forests and Global Change lab at UCLA, I worked as a high school math and computer science teacher at [The Webb Schools](https://www.webb.org). You can read more about my work in education in the [Teaching tab](https://cderanek.github.io/teaching/).
-
-Projects
-======
-
-Trends in multi-decadal ecosystem stability
-------
-asdfas 
-
-Landscpe-scale changes in plant traits following disturbance across California
-------
-For s
-
-Trait mapping transferability
-------
-Many people u
