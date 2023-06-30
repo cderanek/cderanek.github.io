@@ -16,4 +16,4 @@ I'm a PhD student in the [Forests and Global Change lab](https://elsaordway.weeb
 <img src="/images/teak2.JPG" width="250">
 </p>
 
-Prior to joining the Forests and Global Change lab at UCLA, I worked as a high school math and computer science teacher at [The Webb Schools](https://www.webb.org). You can read more about my work in education in the [Teaching tab](https://cderanek.github.io/teaching/).
+Prior to joining the Forests and Global Change lab at UCLA, I worked as a high school math and computer science teacher at [The Webb Schools](https://www.webb.org). You can read more about my work in education in my [CV](https://cderanek.github.io/cv/).
